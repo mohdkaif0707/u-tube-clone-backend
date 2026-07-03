@@ -1,0 +1,19 @@
+{
+  "name": "u-tube-clone-backend",
+  "version": "1.0.0",
+  "description": "this a project on backend based on u tube clone with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdkaif0707/u-tube-clone-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohdkaif0707/u-tube-clone-backend/issues"
+  },
+  "homepage": "https://github.com/mohdkaif0707/u-tube-clone-backend#readme"
+}
